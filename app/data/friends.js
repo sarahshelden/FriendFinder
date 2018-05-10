@@ -1,17 +1,17 @@
 var friends = {
     "name":"sarah",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://www.google.com/search?q=sarah+shelden&tbm=isch&source=iu&ictx=1&fir=lAd3hIk6wWOq2M%253A%252CEIMs00WSjib25M%252C_&usg=__7fJjj7Kky6mQKc_mMqEwN9zSy9Q%3D&sa=X&ved=0ahUKEwjBh4jng_naAhUIy1MKHdAlCFsQ9QEIOzAE#imgrc=_",
     "scores":[
-        5,
-        1,
         4,
-        4,
-        5,
-        1,
         2,
-        5,
         4,
-        1
+        1,
+        3,
+        1,
+        3,
+        2,
+        4,
+        3
     ]};
 
 
